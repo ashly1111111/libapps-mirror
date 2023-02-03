@@ -43,7 +43,7 @@
   "dependencies": {
     "asn1js": "~2",
     "lit-element": "^2.3.1",
-    "pkijs": "~2.1",
+    "pkijs": "~2.4.0",
     "punycode": "~2"
   }
 }
